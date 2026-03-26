@@ -17,3 +17,13 @@ python-multipart==0.0.9      # necesario para subir archivos
 # ── Utilidades ───────────────────────────────────────────────────────
 python-dotenv==1.0.1
 httpx==0.27.0                # cliente HTTP async (usado internamente por openai)
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.4
+pydantic-settings==2.3.4
+openai==1.35.3
+pandas==2.2.2
+openpyxl==3.1.4
+python-multipart==0.0.9
+python-dotenv==1.0.1
+httpx==0.27.0

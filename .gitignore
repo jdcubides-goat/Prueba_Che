@@ -28,3 +28,16 @@ Thumbs.db
 
 # ── Logs ─────────────────────────────────────────────────────────────
 *.log
+cat > .gitignore << 'EOF'
+.env
+.env.local
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.xlsx
+*.xml
+~$*
+EOF
