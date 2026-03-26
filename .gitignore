@@ -1,0 +1,30 @@
+# ── Python ───────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments — NUNCA al repo
+venv/
+.venv/
+env/
+ENV/
+
+# Variables de entorno — NUNCA al repo
+.env
+backend/.env
+
+# ── Node / Frontend ───────────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+
+# ── OS ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ─────────────────────────────────────────────────────────────
+*.log

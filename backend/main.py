@@ -1,0 +1,68 @@
+"""
+Chedraui Smart Onboarding — Backend
+Punto de entrada principal de FastAPI.
+
+Documentación automática disponible en:
+  http://localhost:8000/docs   ← Swagger UI (interactivo)
+  http://localhost:8000/redoc  ← ReDoc (lectura)
+"""
+from contextlib import asynccontextmanager
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+from config import get_settings
+from routes import data, parse, classify, content, validate
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Se ejecuta al arrancar y al apagar el servidor."""
+    settings = get_settings()
+    print(f"\n🚀  Chedraui Demo API · entorno: {settings.environment}")
+    print(f"    Docs: http://localhost:{settings.port}/docs\n")
+    yield
+    print("\n🛑  Servidor detenido\n")
+
+
+# ── Aplicación ────────────────────────────────────────────────────────
+
+settings = get_settings()
+
+app = FastAPI(
+    title="Chedraui Smart Onboarding API",
+    description="Motor AI de alta de productos para ecommerce Chedraui → Stibo Step MDM",
+    version="1.0.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    lifespan=lifespan,
+)
+
+# ── CORS ─────────────────────────────────────────────────────────────
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[settings.frontend_url],
+    allow_credentials=True,
+    allow_methods=["GET", "POST"],
+    allow_headers=["*"],
+)
+
+# ── Routers ──────────────────────────────────────────────────────────
+
+app.include_router(data.router)
+app.include_router(parse.router)
+app.include_router(classify.router)
+app.include_router(content.router)
+app.include_router(validate.router)
+
+
+# ── Health check ─────────────────────────────────────────────────────
+
+@app.get("/api/health", tags=["Sistema"])
+def health():
+    return {
+        "status": "ok",
+        "version": "1.0.0",
+        "service": "Chedraui Smart Onboarding API",
+        "entorno": settings.environment,
+    }

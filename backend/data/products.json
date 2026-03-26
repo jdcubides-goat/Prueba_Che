@@ -1,0 +1,478 @@
+[
+  {
+    "upc": "750000010011", "sku": "SKU-10011",
+    "nombre_proveedor": "Leche Entera LALA 1L",
+    "marca_raw": "LALA", "contenido": "1 L", "desc_raw": "Leche entera pasteurizada",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010012", "sku": "SKU-10012",
+    "nombre_proveedor": "Leche Deslactosada Alpura 1L",
+    "marca_raw": "Alpura", "contenido": "1 L", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010013", "sku": "SKU-10013",
+    "nombre_proveedor": "Leche Semidescremada LALA 2L",
+    "marca_raw": "LALA", "contenido": "2 L", "desc_raw": "Leche con reducción de grasa",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Leche Semidescremada LALA 2 L", "categoria_id": "CAT-0101", "tipo_id": "TYP-003"
+  },
+  {
+    "upc": "750000010021", "sku": "SKU-10021",
+    "nombre_proveedor": "Yogur Natural Danone 900g",
+    "marca_raw": "Danone", "contenido": "900 g", "desc_raw": "Yogur natural sin azúcar añadida",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010022", "sku": "SKU-10022",
+    "nombre_proveedor": "Yogur con Fresa Yoplait 220g",
+    "marca_raw": "Yoplait", "contenido": "220 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010031", "sku": "SKU-10031",
+    "nombre_proveedor": "Queso Manchego LALA 400g",
+    "marca_raw": "LALA", "contenido": "400 g", "desc_raw": "Queso manchego rebanado",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010032", "sku": "SKU-10032",
+    "nombre_proveedor": "Queso Panela Alpura 400g",
+    "marca_raw": "Alpura", "contenido": "400 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000010041", "sku": "SKU-10041",
+    "nombre_proveedor": "Huevo Blanco Grande Bachoco 30pz",
+    "marca_raw": "Bachoco", "contenido": "30 pzas", "desc_raw": "Huevo blanco fresco de granja",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Huevo Blanco Grande Bachoco 30 Piezas", "categoria_id": "CAT-0108", "tipo_id": "TYP-016"
+  },
+  {
+    "upc": "750000020011", "sku": "SKU-20011",
+    "nombre_proveedor": "Arroz Extra Largo SOS 1kg",
+    "marca_raw": "SOS", "contenido": "1 kg", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020012", "sku": "SKU-20012",
+    "nombre_proveedor": "Frijol Negro La Costeña 560g",
+    "marca_raw": "La Costeña", "contenido": "560 g", "desc_raw": "Frijoles negros cocidos en lata",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020021", "sku": "SKU-20021",
+    "nombre_proveedor": "Atún en Agua Herdez 140g",
+    "marca_raw": "Herdez", "contenido": "140 g", "desc_raw": "Atún light en agua",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020022", "sku": "SKU-20022",
+    "nombre_proveedor": "Atún en Aceite Herdez 140g",
+    "marca_raw": "Herdez", "contenido": "140 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020031", "sku": "SKU-20031",
+    "nombre_proveedor": "Aceite Vegetal 123 Girasol 900ml",
+    "marca_raw": "123", "contenido": "900 ml", "desc_raw": "Aceite 100% de girasol",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020032", "sku": "SKU-20032",
+    "nombre_proveedor": "Aceite de Oliva McCormick 250ml",
+    "marca_raw": "McCormick", "contenido": "250 ml", "desc_raw": "Extra virgen primera extracción en frío",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Aceite de Oliva Extra Virgen McCormick 250 ml", "categoria_id": "CAT-0206", "tipo_id": "TYP-029"
+  },
+  {
+    "upc": "750000020041", "sku": "SKU-20041",
+    "nombre_proveedor": "Café Soluble Nescafé Clásico 200g",
+    "marca_raw": "Nescafé", "contenido": "200 g", "desc_raw": "Café soluble instantáneo",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020042", "sku": "SKU-20042",
+    "nombre_proveedor": "Café Molido Cafetero 500g",
+    "marca_raw": "Cafetero", "contenido": "500 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020051", "sku": "SKU-20051",
+    "nombre_proveedor": "Azúcar Estándar Zucarmex 1kg",
+    "marca_raw": "Zucarmex", "contenido": "1 kg", "desc_raw": "Azúcar refinada blanca",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020061", "sku": "SKU-20061",
+    "nombre_proveedor": "Pasta Espagueti Barilla 500g",
+    "marca_raw": "Barilla", "contenido": "500 g", "desc_raw": "Pasta de trigo duro",
+    "estado_ficha": "parcial", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020062", "sku": "SKU-20062",
+    "nombre_proveedor": "Salsa Verde Herdez 453g",
+    "marca_raw": "Herdez", "contenido": "453 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000020063", "sku": "SKU-20063",
+    "nombre_proveedor": "Chile Chipotle La Costeña 220g",
+    "marca_raw": "La Costeña", "contenido": "220 g", "desc_raw": "Chiles chipotles en adobo",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030011", "sku": "SKU-30011",
+    "nombre_proveedor": "Coca-Cola PET 600ml",
+    "marca_raw": "Coca-Cola", "contenido": "600 ml", "desc_raw": "Refresco de cola",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Refresco Cola Coca-Cola PET 600 ml", "categoria_id": "CAT-0301", "tipo_id": "TYP-036"
+  },
+  {
+    "upc": "750000030012", "sku": "SKU-30012",
+    "nombre_proveedor": "Coca-Cola Lata 355ml",
+    "marca_raw": "Coca-Cola", "contenido": "355 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030013", "sku": "SKU-30013",
+    "nombre_proveedor": "Pepsi PET 600ml",
+    "marca_raw": "Pepsi", "contenido": "600 ml", "desc_raw": "Refresco cola",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030021", "sku": "SKU-30021",
+    "nombre_proveedor": "Agua Bonafont 1.5L",
+    "marca_raw": "Bonafont", "contenido": "1.5 L", "desc_raw": "Agua natural purificada",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030022", "sku": "SKU-30022",
+    "nombre_proveedor": "Agua Ciel 1L",
+    "marca_raw": "Ciel", "contenido": "1 L", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030031", "sku": "SKU-30031",
+    "nombre_proveedor": "Jugo Naranja Del Valle 1L",
+    "marca_raw": "Del Valle", "contenido": "1 L", "desc_raw": "Jugo de naranja 100% natural",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030032", "sku": "SKU-30032",
+    "nombre_proveedor": "Jugo Mango Jumex 500ml",
+    "marca_raw": "Jumex", "contenido": "500 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000030041", "sku": "SKU-30041",
+    "nombre_proveedor": "Monster Energy Original Lata 473ml",
+    "marca_raw": "Monster", "contenido": "473 ml", "desc_raw": "Bebida energizante sabor original",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Energizante Monster Energy Original 473 ml", "categoria_id": "CAT-0305", "tipo_id": "TYP-043"
+  },
+  {
+    "upc": "750000030042", "sku": "SKU-30042",
+    "nombre_proveedor": "Red Bull Lata 250ml",
+    "marca_raw": "Red Bull", "contenido": "250 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000040011", "sku": "SKU-40011",
+    "nombre_proveedor": "Pan Blanco Grande Bimbo 680g",
+    "marca_raw": "Bimbo", "contenido": "680 g", "desc_raw": "Pan de caja blanco rebanado",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000040012", "sku": "SKU-40012",
+    "nombre_proveedor": "Pan Integral Bimbo 480g",
+    "marca_raw": "Bimbo", "contenido": "480 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000040021", "sku": "SKU-40021",
+    "nombre_proveedor": "Tortilla Maíz Blanco Maseca 1kg",
+    "marca_raw": "Maseca", "contenido": "1 kg", "desc_raw": "Tortillas de maíz blanco empacadas",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000040022", "sku": "SKU-40022",
+    "nombre_proveedor": "Tortilla Harina Grande Mission 20pz",
+    "marca_raw": "Mission", "contenido": "20 pzas", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000050011", "sku": "SKU-50011",
+    "nombre_proveedor": "Sabritas Original 45g",
+    "marca_raw": "Sabritas", "contenido": "45 g", "desc_raw": "Papas fritas sabor original",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000050012", "sku": "SKU-50012",
+    "nombre_proveedor": "Ruffles Queso 45g",
+    "marca_raw": "Sabritas", "contenido": "45 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000050013", "sku": "SKU-50013",
+    "nombre_proveedor": "Cacahuate Japonés Barcel 170g",
+    "marca_raw": "Barcel", "contenido": "170 g", "desc_raw": "Cacahuates con cobertura crocante",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000050021", "sku": "SKU-50021",
+    "nombre_proveedor": "Galletas Oreo Original 176g",
+    "marca_raw": "Oreo", "contenido": "176 g", "desc_raw": "Galletas de chocolate con crema",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Galleta Rellena Oreo Original 176 g", "categoria_id": "CAT-0503", "tipo_id": "TYP-052"
+  },
+  {
+    "upc": "750000050022", "sku": "SKU-50022",
+    "nombre_proveedor": "Galletas Marias Gamesa 200g",
+    "marca_raw": "Gamesa", "contenido": "200 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000050031", "sku": "SKU-50031",
+    "nombre_proveedor": "Chocolate Abuelita 540g",
+    "marca_raw": "Abuelita", "contenido": "540 g", "desc_raw": "Chocolate de mesa sabor canela",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060011", "sku": "SKU-60011",
+    "nombre_proveedor": "Shampoo Head Shoulders Clásico 375ml",
+    "marca_raw": "Head & Shoulders", "contenido": "375 ml", "desc_raw": "Shampoo anticaspa fórmula clásica",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060012", "sku": "SKU-60012",
+    "nombre_proveedor": "Shampoo Pantene ProV Hidratación 400ml",
+    "marca_raw": "Pantene", "contenido": "400 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060021", "sku": "SKU-60021",
+    "nombre_proveedor": "Jabón Palmolive Naturals 150g",
+    "marca_raw": "Palmolive", "contenido": "150 g", "desc_raw": "Jabón de tocador con extractos naturales",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060022", "sku": "SKU-60022",
+    "nombre_proveedor": "Jabón Dove Hidratante 90g",
+    "marca_raw": "Dove", "contenido": "90 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060031", "sku": "SKU-60031",
+    "nombre_proveedor": "Desodorante Rexona Men 150ml",
+    "marca_raw": "Rexona", "contenido": "150 ml", "desc_raw": "Desodorante aerosol 48h protección",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Desodorante Aerosol Rexona Men 150 ml", "categoria_id": "CAT-0604", "tipo_id": "TYP-060"
+  },
+  {
+    "upc": "750000060032", "sku": "SKU-60032",
+    "nombre_proveedor": "Desodorante Nivea Roll-On 50ml",
+    "marca_raw": "Nivea", "contenido": "50 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060041", "sku": "SKU-60041",
+    "nombre_proveedor": "Pasta Dental Colgate Triple Acción 150ml",
+    "marca_raw": "Colgate", "contenido": "150 ml", "desc_raw": "Pasta dental con flúor triple acción",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000060042", "sku": "SKU-60042",
+    "nombre_proveedor": "Cepillo Dental Oral-B Soft 1pz",
+    "marca_raw": "Oral-B", "contenido": "1 pza", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070011", "sku": "SKU-70011",
+    "nombre_proveedor": "Detergente Ariel Líquido 800ml",
+    "marca_raw": "Ariel", "contenido": "800 ml", "desc_raw": "Detergente líquido con quitamanchas",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070012", "sku": "SKU-70012",
+    "nombre_proveedor": "Suavizante Downy Libre Enjuague 800ml",
+    "marca_raw": "Downy", "contenido": "800 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070013", "sku": "SKU-70013",
+    "nombre_proveedor": "Suavizante Suavitel Campo 850ml",
+    "marca_raw": "Suavitel", "contenido": "850 ml", "desc_raw": "Suavizante aroma fresco",
+    "estado_ficha": "parcial", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070021", "sku": "SKU-70021",
+    "nombre_proveedor": "Pinol Original 828ml",
+    "marca_raw": "Pinol", "contenido": "828 ml", "desc_raw": "Limpiador multiusos aroma pino",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070022", "sku": "SKU-70022",
+    "nombre_proveedor": "Fabuloso Lavanda 1L",
+    "marca_raw": "Fabuloso", "contenido": "1 L", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000070031", "sku": "SKU-70031",
+    "nombre_proveedor": "Papel Higiénico Pétalo Suave 12 rollos",
+    "marca_raw": "Pétalo", "contenido": "12 rollos", "desc_raw": "Papel doble hoja suave",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Papel Higiénico Doble Hoja Pétalo 12 Rollos", "categoria_id": "CAT-0705", "tipo_id": "TYP-067"
+  },
+  {
+    "upc": "750000070032", "sku": "SKU-70032",
+    "nombre_proveedor": "Servilletas Kleenex 100pz",
+    "marca_raw": "Kleenex", "contenido": "100 pzas", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000080011", "sku": "SKU-80011",
+    "nombre_proveedor": "Pañales Huggies Active Sec Talla M 36pz",
+    "marca_raw": "Huggies", "contenido": "36 pzas", "desc_raw": "Pañales con doble barrera",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000080012", "sku": "SKU-80012",
+    "nombre_proveedor": "Pañales Pampers Premium Talla G 30pz",
+    "marca_raw": "Pampers", "contenido": "30 pzas", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000080021", "sku": "SKU-80021",
+    "nombre_proveedor": "Leche Fórmula Similac 1 900g",
+    "marca_raw": "Similac", "contenido": "900 g", "desc_raw": "Fórmula para lactantes etapa 1",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000090011", "sku": "SKU-90011",
+    "nombre_proveedor": "Salchicha de Pavo Sigma 500g",
+    "marca_raw": "Sigma", "contenido": "500 g", "desc_raw": "Salchicha de pavo bajo en grasa",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000090012", "sku": "SKU-90012",
+    "nombre_proveedor": "Jamón Pierna Rebanado Kir 200g",
+    "marca_raw": "Kir", "contenido": "200 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000100011", "sku": "SKU-100011",
+    "nombre_proveedor": "Helado Familiar Vainilla Holanda 1.5L",
+    "marca_raw": "Holanda", "contenido": "1.5 L", "desc_raw": "Helado sabor vainilla",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000100012", "sku": "SKU-100012",
+    "nombre_proveedor": "Helado Familiar Chocolate Nutrisa 1L",
+    "marca_raw": "Nutrisa", "contenido": "1 L", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000100021", "sku": "SKU-100021",
+    "nombre_proveedor": "Mezcla Verduras Congeladas Del Monte 500g",
+    "marca_raw": "Del Monte", "contenido": "500 g", "desc_raw": "Mezcla de chícharo, ejote y zanahoria",
+    "estado_ficha": "parcial", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000110011", "sku": "SKU-110011",
+    "nombre_proveedor": "Acondicionador Pantene Hidratación 400ml",
+    "marca_raw": "Pantene", "contenido": "400 ml", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000110012", "sku": "SKU-110012",
+    "nombre_proveedor": "Acondicionador Dove Regeneración 400ml",
+    "marca_raw": "Dove", "contenido": "400 ml", "desc_raw": "Acondicionador reparador con keratina",
+    "estado_ficha": "parcial", "en_stibo": true,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000120011", "sku": "SKU-120011",
+    "nombre_proveedor": "Bebida Avena Alpro sin Azúcar 1L",
+    "marca_raw": "Alpro", "contenido": "1 L", "desc_raw": "Bebida vegetal de avena",
+    "estado_ficha": "parcial", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000130011", "sku": "SKU-130011",
+    "nombre_proveedor": "Detergente Ariel Polvo 1kg",
+    "marca_raw": "Ariel", "contenido": "1 kg", "desc_raw": "Detergente en polvo con enzimas",
+    "estado_ficha": "completo", "en_stibo": true,
+    "nombre_ecommerce": "Detergente en Polvo Ariel 1 kg", "categoria_id": "CAT-0701", "tipo_id": "TYP-063"
+  },
+  {
+    "upc": "750000140011", "sku": "SKU-140011",
+    "nombre_proveedor": "Mantequilla LALA con Sal 90g",
+    "marca_raw": "LALA", "contenido": "90 g", "desc_raw": "",
+    "estado_ficha": "vacio", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  },
+  {
+    "upc": "750000150011", "sku": "SKU-150011",
+    "nombre_proveedor": "Arroz Moreno SOS 1kg",
+    "marca_raw": "SOS", "contenido": "1 kg", "desc_raw": "Arroz integral de grano largo",
+    "estado_ficha": "parcial", "en_stibo": false,
+    "nombre_ecommerce": null, "categoria_id": null, "tipo_id": null
+  }
+]

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+  <producto>
+    <upc>750000010011</upc>
+    <sku>SKU-10011</sku>
+    <nombre_proveedor>Leche Entera LALA 1L</nombre_proveedor>
+    <marca_raw>LALA</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw>Leche entera pasteurizada</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010012</upc>
+    <sku>SKU-10012</sku>
+    <nombre_proveedor>Leche Deslactosada Alpura 1L</nombre_proveedor>
+    <marca_raw>Alpura</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010013</upc>
+    <sku>SKU-10013</sku>
+    <nombre_proveedor>Leche Semidescremada LALA 2L</nombre_proveedor>
+    <marca_raw>LALA</marca_raw>
+    <contenido>2 L</contenido>
+    <desc_raw>Leche con reducción de grasa</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Leche Semidescremada LALA 2 L</nombre_ecommerce>
+    <categoria_id>CAT-0101</categoria_id>
+    <tipo_id>TYP-003</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010021</upc>
+    <sku>SKU-10021</sku>
+    <nombre_proveedor>Yogur Natural Danone 900g</nombre_proveedor>
+    <marca_raw>Danone</marca_raw>
+    <contenido>900 g</contenido>
+    <desc_raw>Yogur natural sin azúcar añadida</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010022</upc>
+    <sku>SKU-10022</sku>
+    <nombre_proveedor>Yogur con Fresa Yoplait 220g</nombre_proveedor>
+    <marca_raw>Yoplait</marca_raw>
+    <contenido>220 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010031</upc>
+    <sku>SKU-10031</sku>
+    <nombre_proveedor>Queso Manchego LALA 400g</nombre_proveedor>
+    <marca_raw>LALA</marca_raw>
+    <contenido>400 g</contenido>
+    <desc_raw>Queso manchego rebanado</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010032</upc>
+    <sku>SKU-10032</sku>
+    <nombre_proveedor>Queso Panela Alpura 400g</nombre_proveedor>
+    <marca_raw>Alpura</marca_raw>
+    <contenido>400 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000010041</upc>
+    <sku>SKU-10041</sku>
+    <nombre_proveedor>Huevo Blanco Grande Bachoco 30pz</nombre_proveedor>
+    <marca_raw>Bachoco</marca_raw>
+    <contenido>30 pzas</contenido>
+    <desc_raw>Huevo blanco fresco de granja</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Huevo Blanco Grande Bachoco 30 Piezas</nombre_ecommerce>
+    <categoria_id>CAT-0108</categoria_id>
+    <tipo_id>TYP-016</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020011</upc>
+    <sku>SKU-20011</sku>
+    <nombre_proveedor>Arroz Extra Largo SOS 1kg</nombre_proveedor>
+    <marca_raw>SOS</marca_raw>
+    <contenido>1 kg</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020012</upc>
+    <sku>SKU-20012</sku>
+    <nombre_proveedor>Frijol Negro La Costeña 560g</nombre_proveedor>
+    <marca_raw>La Costeña</marca_raw>
+    <contenido>560 g</contenido>
+    <desc_raw>Frijoles negros cocidos en lata</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020021</upc>
+    <sku>SKU-20021</sku>
+    <nombre_proveedor>Atún en Agua Herdez 140g</nombre_proveedor>
+    <marca_raw>Herdez</marca_raw>
+    <contenido>140 g</contenido>
+    <desc_raw>Atún light en agua</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020022</upc>
+    <sku>SKU-20022</sku>
+    <nombre_proveedor>Atún en Aceite Herdez 140g</nombre_proveedor>
+    <marca_raw>Herdez</marca_raw>
+    <contenido>140 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020031</upc>
+    <sku>SKU-20031</sku>
+    <nombre_proveedor>Aceite Vegetal 123 Girasol 900ml</nombre_proveedor>
+    <marca_raw>123</marca_raw>
+    <contenido>900 ml</contenido>
+    <desc_raw>Aceite 100% de girasol</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020032</upc>
+    <sku>SKU-20032</sku>
+    <nombre_proveedor>Aceite de Oliva McCormick 250ml</nombre_proveedor>
+    <marca_raw>McCormick</marca_raw>
+    <contenido>250 ml</contenido>
+    <desc_raw>Extra virgen primera extracción en frío</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Aceite de Oliva Extra Virgen McCormick 250 ml</nombre_ecommerce>
+    <categoria_id>CAT-0206</categoria_id>
+    <tipo_id>TYP-029</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020041</upc>
+    <sku>SKU-20041</sku>
+    <nombre_proveedor>Café Soluble Nescafé Clásico 200g</nombre_proveedor>
+    <marca_raw>Nescafé</marca_raw>
+    <contenido>200 g</contenido>
+    <desc_raw>Café soluble instantáneo</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020042</upc>
+    <sku>SKU-20042</sku>
+    <nombre_proveedor>Café Molido Cafetero 500g</nombre_proveedor>
+    <marca_raw>Cafetero</marca_raw>
+    <contenido>500 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020051</upc>
+    <sku>SKU-20051</sku>
+    <nombre_proveedor>Azúcar Estándar Zucarmex 1kg</nombre_proveedor>
+    <marca_raw>Zucarmex</marca_raw>
+    <contenido>1 kg</contenido>
+    <desc_raw>Azúcar refinada blanca</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020061</upc>
+    <sku>SKU-20061</sku>
+    <nombre_proveedor>Pasta Espagueti Barilla 500g</nombre_proveedor>
+    <marca_raw>Barilla</marca_raw>
+    <contenido>500 g</contenido>
+    <desc_raw>Pasta de trigo duro</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020062</upc>
+    <sku>SKU-20062</sku>
+    <nombre_proveedor>Salsa Verde Herdez 453g</nombre_proveedor>
+    <marca_raw>Herdez</marca_raw>
+    <contenido>453 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000020063</upc>
+    <sku>SKU-20063</sku>
+    <nombre_proveedor>Chile Chipotle La Costeña 220g</nombre_proveedor>
+    <marca_raw>La Costeña</marca_raw>
+    <contenido>220 g</contenido>
+    <desc_raw>Chiles chipotles en adobo</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030011</upc>
+    <sku>SKU-30011</sku>
+    <nombre_proveedor>Coca-Cola PET 600ml</nombre_proveedor>
+    <marca_raw>Coca-Cola</marca_raw>
+    <contenido>600 ml</contenido>
+    <desc_raw>Refresco de cola</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Refresco Cola Coca-Cola PET 600 ml</nombre_ecommerce>
+    <categoria_id>CAT-0301</categoria_id>
+    <tipo_id>TYP-036</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030012</upc>
+    <sku>SKU-30012</sku>
+    <nombre_proveedor>Coca-Cola Lata 355ml</nombre_proveedor>
+    <marca_raw>Coca-Cola</marca_raw>
+    <contenido>355 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030013</upc>
+    <sku>SKU-30013</sku>
+    <nombre_proveedor>Pepsi PET 600ml</nombre_proveedor>
+    <marca_raw>Pepsi</marca_raw>
+    <contenido>600 ml</contenido>
+    <desc_raw>Refresco cola</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030021</upc>
+    <sku>SKU-30021</sku>
+    <nombre_proveedor>Agua Bonafont 1.5L</nombre_proveedor>
+    <marca_raw>Bonafont</marca_raw>
+    <contenido>1.5 L</contenido>
+    <desc_raw>Agua natural purificada</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030022</upc>
+    <sku>SKU-30022</sku>
+    <nombre_proveedor>Agua Ciel 1L</nombre_proveedor>
+    <marca_raw>Ciel</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030031</upc>
+    <sku>SKU-30031</sku>
+    <nombre_proveedor>Jugo Naranja Del Valle 1L</nombre_proveedor>
+    <marca_raw>Del Valle</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw>Jugo de naranja 100% natural</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030032</upc>
+    <sku>SKU-30032</sku>
+    <nombre_proveedor>Jugo Mango Jumex 500ml</nombre_proveedor>
+    <marca_raw>Jumex</marca_raw>
+    <contenido>500 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030041</upc>
+    <sku>SKU-30041</sku>
+    <nombre_proveedor>Monster Energy Original Lata 473ml</nombre_proveedor>
+    <marca_raw>Monster</marca_raw>
+    <contenido>473 ml</contenido>
+    <desc_raw>Bebida energizante sabor original</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Energizante Monster Energy Original 473 ml</nombre_ecommerce>
+    <categoria_id>CAT-0305</categoria_id>
+    <tipo_id>TYP-043</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000030042</upc>
+    <sku>SKU-30042</sku>
+    <nombre_proveedor>Red Bull Lata 250ml</nombre_proveedor>
+    <marca_raw>Red Bull</marca_raw>
+    <contenido>250 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000040011</upc>
+    <sku>SKU-40011</sku>
+    <nombre_proveedor>Pan Blanco Grande Bimbo 680g</nombre_proveedor>
+    <marca_raw>Bimbo</marca_raw>
+    <contenido>680 g</contenido>
+    <desc_raw>Pan de caja blanco rebanado</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000040012</upc>
+    <sku>SKU-40012</sku>
+    <nombre_proveedor>Pan Integral Bimbo 480g</nombre_proveedor>
+    <marca_raw>Bimbo</marca_raw>
+    <contenido>480 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000040021</upc>
+    <sku>SKU-40021</sku>
+    <nombre_proveedor>Tortilla Maíz Blanco Maseca 1kg</nombre_proveedor>
+    <marca_raw>Maseca</marca_raw>
+    <contenido>1 kg</contenido>
+    <desc_raw>Tortillas de maíz blanco empacadas</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000040022</upc>
+    <sku>SKU-40022</sku>
+    <nombre_proveedor>Tortilla Harina Grande Mission 20pz</nombre_proveedor>
+    <marca_raw>Mission</marca_raw>
+    <contenido>20 pzas</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050011</upc>
+    <sku>SKU-50011</sku>
+    <nombre_proveedor>Sabritas Original 45g</nombre_proveedor>
+    <marca_raw>Sabritas</marca_raw>
+    <contenido>45 g</contenido>
+    <desc_raw>Papas fritas sabor original</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050012</upc>
+    <sku>SKU-50012</sku>
+    <nombre_proveedor>Ruffles Queso 45g</nombre_proveedor>
+    <marca_raw>Sabritas</marca_raw>
+    <contenido>45 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050013</upc>
+    <sku>SKU-50013</sku>
+    <nombre_proveedor>Cacahuate Japonés Barcel 170g</nombre_proveedor>
+    <marca_raw>Barcel</marca_raw>
+    <contenido>170 g</contenido>
+    <desc_raw>Cacahuates con cobertura crocante</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050021</upc>
+    <sku>SKU-50021</sku>
+    <nombre_proveedor>Galletas Oreo Original 176g</nombre_proveedor>
+    <marca_raw>Oreo</marca_raw>
+    <contenido>176 g</contenido>
+    <desc_raw>Galletas de chocolate con crema</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Galleta Rellena Oreo Original 176 g</nombre_ecommerce>
+    <categoria_id>CAT-0503</categoria_id>
+    <tipo_id>TYP-052</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050022</upc>
+    <sku>SKU-50022</sku>
+    <nombre_proveedor>Galletas Marias Gamesa 200g</nombre_proveedor>
+    <marca_raw>Gamesa</marca_raw>
+    <contenido>200 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000050031</upc>
+    <sku>SKU-50031</sku>
+    <nombre_proveedor>Chocolate Abuelita 540g</nombre_proveedor>
+    <marca_raw>Abuelita</marca_raw>
+    <contenido>540 g</contenido>
+    <desc_raw>Chocolate de mesa sabor canela</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060011</upc>
+    <sku>SKU-60011</sku>
+    <nombre_proveedor>Shampoo Head Shoulders Clásico 375ml</nombre_proveedor>
+    <marca_raw>Head &amp; Shoulders</marca_raw>
+    <contenido>375 ml</contenido>
+    <desc_raw>Shampoo anticaspa fórmula clásica</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060012</upc>
+    <sku>SKU-60012</sku>
+    <nombre_proveedor>Shampoo Pantene ProV Hidratación 400ml</nombre_proveedor>
+    <marca_raw>Pantene</marca_raw>
+    <contenido>400 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060021</upc>
+    <sku>SKU-60021</sku>
+    <nombre_proveedor>Jabón Palmolive Naturals 150g</nombre_proveedor>
+    <marca_raw>Palmolive</marca_raw>
+    <contenido>150 g</contenido>
+    <desc_raw>Jabón de tocador con extractos naturales</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060022</upc>
+    <sku>SKU-60022</sku>
+    <nombre_proveedor>Jabón Dove Hidratante 90g</nombre_proveedor>
+    <marca_raw>Dove</marca_raw>
+    <contenido>90 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060031</upc>
+    <sku>SKU-60031</sku>
+    <nombre_proveedor>Desodorante Rexona Men 150ml</nombre_proveedor>
+    <marca_raw>Rexona</marca_raw>
+    <contenido>150 ml</contenido>
+    <desc_raw>Desodorante aerosol 48h protección</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Desodorante Aerosol Rexona Men 150 ml</nombre_ecommerce>
+    <categoria_id>CAT-0604</categoria_id>
+    <tipo_id>TYP-060</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060032</upc>
+    <sku>SKU-60032</sku>
+    <nombre_proveedor>Desodorante Nivea Roll-On 50ml</nombre_proveedor>
+    <marca_raw>Nivea</marca_raw>
+    <contenido>50 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060041</upc>
+    <sku>SKU-60041</sku>
+    <nombre_proveedor>Pasta Dental Colgate Triple Acción 150ml</nombre_proveedor>
+    <marca_raw>Colgate</marca_raw>
+    <contenido>150 ml</contenido>
+    <desc_raw>Pasta dental con flúor triple acción</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000060042</upc>
+    <sku>SKU-60042</sku>
+    <nombre_proveedor>Cepillo Dental Oral-B Soft 1pz</nombre_proveedor>
+    <marca_raw>Oral-B</marca_raw>
+    <contenido>1 pza</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070011</upc>
+    <sku>SKU-70011</sku>
+    <nombre_proveedor>Detergente Ariel Líquido 800ml</nombre_proveedor>
+    <marca_raw>Ariel</marca_raw>
+    <contenido>800 ml</contenido>
+    <desc_raw>Detergente líquido con quitamanchas</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070012</upc>
+    <sku>SKU-70012</sku>
+    <nombre_proveedor>Suavizante Downy Libre Enjuague 800ml</nombre_proveedor>
+    <marca_raw>Downy</marca_raw>
+    <contenido>800 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070013</upc>
+    <sku>SKU-70013</sku>
+    <nombre_proveedor>Suavizante Suavitel Campo 850ml</nombre_proveedor>
+    <marca_raw>Suavitel</marca_raw>
+    <contenido>850 ml</contenido>
+    <desc_raw>Suavizante aroma fresco</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070021</upc>
+    <sku>SKU-70021</sku>
+    <nombre_proveedor>Pinol Original 828ml</nombre_proveedor>
+    <marca_raw>Pinol</marca_raw>
+    <contenido>828 ml</contenido>
+    <desc_raw>Limpiador multiusos aroma pino</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070022</upc>
+    <sku>SKU-70022</sku>
+    <nombre_proveedor>Fabuloso Lavanda 1L</nombre_proveedor>
+    <marca_raw>Fabuloso</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070031</upc>
+    <sku>SKU-70031</sku>
+    <nombre_proveedor>Papel Higiénico Pétalo Suave 12 rollos</nombre_proveedor>
+    <marca_raw>Pétalo</marca_raw>
+    <contenido>12 rollos</contenido>
+    <desc_raw>Papel doble hoja suave</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Papel Higiénico Doble Hoja Pétalo 12 Rollos</nombre_ecommerce>
+    <categoria_id>CAT-0705</categoria_id>
+    <tipo_id>TYP-067</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000070032</upc>
+    <sku>SKU-70032</sku>
+    <nombre_proveedor>Servilletas Kleenex 100pz</nombre_proveedor>
+    <marca_raw>Kleenex</marca_raw>
+    <contenido>100 pzas</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000080011</upc>
+    <sku>SKU-80011</sku>
+    <nombre_proveedor>Pañales Huggies Active Sec Talla M 36pz</nombre_proveedor>
+    <marca_raw>Huggies</marca_raw>
+    <contenido>36 pzas</contenido>
+    <desc_raw>Pañales con doble barrera</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000080012</upc>
+    <sku>SKU-80012</sku>
+    <nombre_proveedor>Pañales Pampers Premium Talla G 30pz</nombre_proveedor>
+    <marca_raw>Pampers</marca_raw>
+    <contenido>30 pzas</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000080021</upc>
+    <sku>SKU-80021</sku>
+    <nombre_proveedor>Leche Fórmula Similac 1 900g</nombre_proveedor>
+    <marca_raw>Similac</marca_raw>
+    <contenido>900 g</contenido>
+    <desc_raw>Fórmula para lactantes etapa 1</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000090011</upc>
+    <sku>SKU-90011</sku>
+    <nombre_proveedor>Salchicha de Pavo Sigma 500g</nombre_proveedor>
+    <marca_raw>Sigma</marca_raw>
+    <contenido>500 g</contenido>
+    <desc_raw>Salchicha de pavo bajo en grasa</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000090012</upc>
+    <sku>SKU-90012</sku>
+    <nombre_proveedor>Jamón Pierna Rebanado Kir 200g</nombre_proveedor>
+    <marca_raw>Kir</marca_raw>
+    <contenido>200 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000100011</upc>
+    <sku>SKU-100011</sku>
+    <nombre_proveedor>Helado Familiar Vainilla Holanda 1.5L</nombre_proveedor>
+    <marca_raw>Holanda</marca_raw>
+    <contenido>1.5 L</contenido>
+    <desc_raw>Helado sabor vainilla</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000100012</upc>
+    <sku>SKU-100012</sku>
+    <nombre_proveedor>Helado Familiar Chocolate Nutrisa 1L</nombre_proveedor>
+    <marca_raw>Nutrisa</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000100021</upc>
+    <sku>SKU-100021</sku>
+    <nombre_proveedor>Mezcla Verduras Congeladas Del Monte 500g</nombre_proveedor>
+    <marca_raw>Del Monte</marca_raw>
+    <contenido>500 g</contenido>
+    <desc_raw>Mezcla de chícharo, ejote y zanahoria</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000110011</upc>
+    <sku>SKU-110011</sku>
+    <nombre_proveedor>Acondicionador Pantene Hidratación 400ml</nombre_proveedor>
+    <marca_raw>Pantene</marca_raw>
+    <contenido>400 ml</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000110012</upc>
+    <sku>SKU-110012</sku>
+    <nombre_proveedor>Acondicionador Dove Regeneración 400ml</nombre_proveedor>
+    <marca_raw>Dove</marca_raw>
+    <contenido>400 ml</contenido>
+    <desc_raw>Acondicionador reparador con keratina</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000120011</upc>
+    <sku>SKU-120011</sku>
+    <nombre_proveedor>Bebida Avena Alpro sin Azúcar 1L</nombre_proveedor>
+    <marca_raw>Alpro</marca_raw>
+    <contenido>1 L</contenido>
+    <desc_raw>Bebida vegetal de avena</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000130011</upc>
+    <sku>SKU-130011</sku>
+    <nombre_proveedor>Detergente Ariel Polvo 1kg</nombre_proveedor>
+    <marca_raw>Ariel</marca_raw>
+    <contenido>1 kg</contenido>
+    <desc_raw>Detergente en polvo con enzimas</desc_raw>
+    <estado_ficha>completo</estado_ficha>
+    <en_stibo>True</en_stibo>
+    <nombre_ecommerce>Detergente en Polvo Ariel 1 kg</nombre_ecommerce>
+    <categoria_id>CAT-0701</categoria_id>
+    <tipo_id>TYP-063</tipo_id>
+  </producto>
+  <producto>
+    <upc>750000140011</upc>
+    <sku>SKU-140011</sku>
+    <nombre_proveedor>Mantequilla LALA con Sal 90g</nombre_proveedor>
+    <marca_raw>LALA</marca_raw>
+    <contenido>90 g</contenido>
+    <desc_raw></desc_raw>
+    <estado_ficha>vacio</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+  <producto>
+    <upc>750000150011</upc>
+    <sku>SKU-150011</sku>
+    <nombre_proveedor>Arroz Moreno SOS 1kg</nombre_proveedor>
+    <marca_raw>SOS</marca_raw>
+    <contenido>1 kg</contenido>
+    <desc_raw>Arroz integral de grano largo</desc_raw>
+    <estado_ficha>parcial</estado_ficha>
+    <en_stibo>False</en_stibo>
+    <nombre_ecommerce></nombre_ecommerce>
+    <categoria_id></categoria_id>
+    <tipo_id></tipo_id>
+  </producto>
+</productos>
