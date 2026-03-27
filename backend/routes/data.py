@@ -10,6 +10,7 @@ from fastapi.responses import StreamingResponse, JSONResponse
 from services import data_service as ds
 
 router = APIRouter(prefix="/api/data", tags=["Datos semilla"])
+
 # ── Productos ─────────────────────────────────────────────────────────
 
 @router.get("/products", summary="Lista de productos")
